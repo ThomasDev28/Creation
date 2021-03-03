@@ -1,0 +1,17 @@
+thomas@thomas-VivoBook-ASUSLaptop-X712DA-M712DA:~$ pwd
+/home/thomas
+thomas@thomas-VivoBook-ASUSLaptop-X712DA-M712DA:~$ cd ..
+thomas@thomas-VivoBook-ASUSLaptop-X712DA-M712DA:/home$ pwd
+/home
+thomas@thomas-VivoBook-ASUSLaptop-X712DA-M712DA:/home$ cd ..
+thomas@thomas-VivoBook-ASUSLaptop-X712DA-M712DA:/$ pwd
+/
+thomas@thomas-VivoBook-ASUSLaptop-X712DA-M712DA:/$ ls
+bin    dev   lib    libx32      mnt   root  snap      sys  var
+boot   etc   lib32  lost+found  opt   run   srv       tmp
+cdrom  home  lib64  media       proc  sbin  swapfile  usr
+thomas@thomas-VivoBook-ASUSLaptop-X712DA-M712DA:/$ cd home
+thomas@thomas-VivoBook-ASUSLaptop-X712DA-M712DA:/home$ ls
+thomas
+thomas@thomas-VivoBook-ASUSLaptop-X712DA-M712DA:/home$ cd /home/thomas
+thomas@thomas-VivoBook-ASUSLaptop-X712DA-M712DA:~$ 
